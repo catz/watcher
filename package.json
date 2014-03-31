@@ -1,0 +1,18 @@
+{
+  "name": "watcher",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "watch": "~0.9.0",
+    "mysql": "~2.1.1",
+    "dateformat": "~1.0.7-1.2.3"
+  }
+}
